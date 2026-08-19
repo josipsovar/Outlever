@@ -20,13 +20,20 @@ claim it will be posted automatically, and never invent facts.
   one concrete anecdote, data point, or opinion to ground the post in —
   don't fabricate one.
 
-## 2. Read voice inputs
+## 2. Read voice and company inputs
 
 - Read `executives/<slug>/profile.md` in full (voice, tone, do's/don'ts, red
-  lines, standing facts).
+  lines, standing facts, and the `Company knowledge base` link).
 - Read `executives/<slug>/sample-posts.md`. If it has no real posts pasted in
   (still just the template header), tell the user voice-matching will be
   weaker without examples and proceed on `profile.md` alone.
+- If the profile links a `companies/<company-slug>/`, read `overview.md`,
+  `products-features.md`, `audience-personas.md`, and `voice-style.md` there.
+  Use these for factual grounding (product claims, positioning, personas to
+  target) and as the tone floor underneath the executive's personal voice —
+  see the precedence note at the top of `voice-style.md`. If no company is
+  linked or the folder is still the empty template, proceed on the
+  executive's profile alone.
 
 ## 3. Draft
 

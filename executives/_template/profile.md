@@ -1,6 +1,8 @@
 # Executive Profile: [Full Name]
 
 - **Role / Company:** [Title, Company]
+- **Company knowledge base:** [companies/<company-slug>/ — link posts back to
+  this company's overview, products, personas, and voice-style]
 - **Client contact (Outlever side):** [who approves drafts]
 
 ## Bio (2–3 sentences)
